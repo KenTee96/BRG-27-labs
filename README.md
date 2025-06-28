@@ -15,5 +15,5 @@ Day 1
 
 -Stop processes and check on the statuses of services
 
--Tried chmod to edit the rwe permissions, using ls -l to view permissions
+-Tried chmod to edit the rwx permissions, using ls -l to view permissions
 
