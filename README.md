@@ -17,3 +17,21 @@ Day 1
 
 -Tried chmod to edit the rwx permissions, using ls -l to view permissions
 
+
+Day 2
+
+-Sign up on Azure for free student resources and USD$100 credit
+
+-Create resource group and set up cloud VM
+
+-Take into consideration the cost of the VM (chosen cheapest Azure vm size, B1s, 0.5GiB RAM, 
+
+-Setup the network to allow ssh only from my IP for port 22
+
+-Connect to cloud VM via powershell from my pc
+
+-Created a script for updating base packages
+
+-Changed permission to allow execute for the update script
+
+-Used crontab to add in a rule to run the script at 3am everyday and store the stdin/stdout in a log file
