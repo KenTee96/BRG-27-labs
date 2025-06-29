@@ -28,7 +28,7 @@ Day 2
 
 -Setup the network to allow ssh only from my IP for port 22
 
--Connect to cloud VM via powershell from my pc
+-Connect to Azure cloud VM via powershell from my pc
 
 -Created a script for updating base packages
 
