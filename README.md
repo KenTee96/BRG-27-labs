@@ -35,3 +35,23 @@ Day 2
 -Changed permission to allow execute for the update script
 
 -Used crontab to add in a rule to run the script at 3am everyday and store the stdin/stdout in a log file
+
+Day 3
+
+-Registered a free subdomain for Azure VM on duckdns (iseacloudlab.duckdns.org)
+
+-SSH into Azure VM and did some configuration
+
+-Installed Nginx
+
+-Installed Certbot for SSL secure connection
+
+-Tried using dig command to verify dns is registered
+
+-Went onto browser to test for the Vm's domain
+
+-Changed the default page to run my own simple index.html
+
+-Included a test file for viewing as a hyperlink (testdoc.txt)
+
+-Logged the access of hyperlink
