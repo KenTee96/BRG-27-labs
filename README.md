@@ -1,5 +1,5 @@
 # BRG-27-labs
-Documentation for ISEA bridging module
+Documentation for ISEA bridging module, more detailed writings in each subfolders
 
 ## Day 1
 
