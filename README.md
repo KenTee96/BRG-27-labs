@@ -1,7 +1,7 @@
 # BRG-27-labs
 Documentation for ISEA bridging module
 
-Day 1
+## Day 1
 
 -Learning more about the structure of servers
 
@@ -18,7 +18,7 @@ Day 1
 -Tried chmod to edit the rwx permissions, using ls -l to view permissions
 
 
-Day 2
+## Day 2
 
 -Sign up on Azure for free student resources and USD$100 credit
 
@@ -36,7 +36,7 @@ Day 2
 
 -Used crontab to add in a rule to run the script at 3am everyday and store the stdin/stdout in a log file
 
-Day 3
+## Day 3
 
 -Registered a free subdomain for Azure VM on duckdns (iseacloudlab.duckdns.org)
 
@@ -56,7 +56,7 @@ Day 3
 
 -Logged the access of hyperlink
 
-Day 4
+## Day 4
 
 -Installation of ufw using apt
 
