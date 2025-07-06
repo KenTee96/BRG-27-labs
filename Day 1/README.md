@@ -1,4 +1,6 @@
-Day 1
+# Day 1
+
+## Activities
 
 -Setting up Github
 
@@ -16,7 +18,7 @@ Day 1
 
 -Using 'man' to read more into the common commands, the arguments available for use (am using verbose alot as it gives more infomration on most things)
 
-Challenges:
+## Challenges:
 
 -Unsure of how github works, didn't know that subfolders had to be manually created
 
