@@ -55,3 +55,11 @@ Day 3
 -Included a test file for viewing as a hyperlink (testdoc.txt)
 
 -Logged the access of hyperlink
+
+Day 4
+
+-Installation of ufw using apt
+
+-Tried extracting IP that are doing suspicious activities to the server from access.log
+
+-Plan to integrate ufw functions into a script and process the extracted IP for blocking/further actions or monitoring
