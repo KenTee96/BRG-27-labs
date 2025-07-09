@@ -9,6 +9,6 @@
 
 - Serve a file for downloading (testdoc.txt)
 
--Installation of ufw using apt
+- Installation of ufw using apt
 
--Plan to integrate ufw functions into a script and process the extracted IP for blocking/further actions or monitoring
+- Plan to integrate ufw functions into a script and process the extracted IP for blocking/further actions or monitoring
