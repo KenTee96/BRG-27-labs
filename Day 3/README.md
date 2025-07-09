@@ -9,7 +9,7 @@
 - Usage of certbot to ensure site is forced for https for secure connection
 
 # # Challenges
-- - Similarly, the variety of services avaiable is great
-- - Coming up with a simple domain name (there are certain domain like .org .lab .ai etc that can be chosen for other regristrar other than duckdns, where these are available) to ensure that there are no confusion
-- - Initially did not see https, only worked when i restarted the services and new connections are forced to be on https (still unsure of why)
-  - 
+- Similarly, the variety of services avaiable is great
+- Coming up with a simple domain name (there are certain domain like .org .lab .ai etc that can be chosen for other regristrar other than duckdns, where these are available) to ensure that there are no confusion
+- Initially did not see https, only worked when i restarted the services and new connections are forced to be on https (still unsure of why)
+- There was not much of a tough challenge on the lab activities for Day 3 in general as the services like duckdns or domain registrars are pretty straightforward and cost savvy, setting up of certbot and configuring the secure connection was also quite straightforward as most of the default configurations are self explanatory
