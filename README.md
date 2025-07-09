@@ -58,8 +58,8 @@ Documentation for ISEA bridging module, more detailed writings in each subfolder
 
 ## Day 4
 
--Installation of ufw using apt
+-Installed and configured FTP service
 
--Tried extracting IP that are doing suspicious activities to the server from access.log
+-Installation of ufw using apt
 
 -Plan to integrate ufw functions into a script and process the extracted IP for blocking/further actions or monitoring
